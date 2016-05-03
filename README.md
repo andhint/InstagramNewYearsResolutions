@@ -10,4 +10,5 @@ This script uses Python 2.7 with the <a href="http://docs.python-requests.org/en
 <a href="https://www.crummy.com/software/BeautifulSoup/">Beautiful Soup library</a>.
 
 The script will create a CSV file containing the day number and the number of times a hashtag was used for that day.
-(ex. 47,132996 ). A sample file is in the repository.
+(ex. 47,132996 ). A sample file is in the repository. For me to run on my computer it takes about 325s. There is a line the 
+code the prints out the progress of the script.
